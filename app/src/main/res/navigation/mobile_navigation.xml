@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_conheca_o_aprimorando">
+
+    <fragment
+        android:id="@+id/nav_conheca_o_aprimorando"
+        android:name="com.noodle.aprimorando.ui.home.HomeFragment"
+        android:label="@string/menu_aprimorando"
+        tools:layout="@layout/fragment_conheca_aprimorando" />
+
+    <fragment
+        android:id="@+id/nav_conheca_a_UFTM"
+        android:name="com.noodle.aprimorando.ui.gallery.GalleryFragment"
+        android:label="@string/menu_uftm"
+        tools:layout="@layout/fragment_conheca_uftm" />
+
+    <fragment
+        android:id="@+id/nav_dir_dev_discentes"
+        android:name="com.noodle.aprimorando.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_dir_dev_discentes"
+        tools:layout="@layout/fragment_direitos_e_deveres_do_discente" />
+    <fragment
+        android:id="@+id/nav_pro_reitorias"
+        android:name="com.noodle.aprimorando.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_pro_reitorias"
+        tools:layout="@layout/fragment_pro_reitorias" />
+    <fragment
+        android:id="@+id/nav_inst_uftm"
+        android:name="com.noodle.aprimorando.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_inst_uftm"
+        tools:layout="@layout/fragment_inst_uftm" />
+    <fragment
+        android:id="@+id/nav_diretorios_academicos"
+        android:name="com.noodle.aprimorando.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_diretorios_academicos"
+        tools:layout="@layout/fragment_diretorios_academicos" />
+    <fragment
+        android:id="@+id/nav_ligas"
+        android:name="com.noodle.aprimorando.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_ligas"
+        tools:layout="@layout/fragment_ligas" />
+    <fragment
+        android:id="@+id/nav_iniciacao_cientifica"
+        android:name="com.noodle.aprimorando.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_iniciacao_cientifica"
+        tools:layout="@layout/fragment_iniciacao_cientifica" />
+    <fragment
+        android:id="@+id/nav_coordenacoes"
+        android:name="com.noodle.aprimorando.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_coordenacoes"
+        tools:layout="@layout/fragment_coordenacoes" />
+    <fragment
+        android:id="@+id/nav_mural_de_informacoes"
+        android:name="com.noodle.aprimorando.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_mural_de_informacoes"
+        tools:layout="@layout/fragment_mural_de_informacoes" />
+    <fragment
+        android:id="@+id/nav_calendario_academico"
+        android:name="com.noodle.aprimorando.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_calendario_academico"
+        tools:layout="@layout/fragment_calendario_academico" />
+
+</navigation>

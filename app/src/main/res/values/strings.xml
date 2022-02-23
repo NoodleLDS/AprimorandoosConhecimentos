@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aprimorando</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">aprimorandoconhecimentosuftm@gmail.com
+</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_aprimorando">Conheça o Aprimorando</string>
+    <string name="menu_uftm">Conheça a UFTM</string>
+    <string name="menu_regu_graduacao">Regulamento de Graduação</string>
+    <string name="menu_dir_dev_discentes">Direitos e Deveres do Discente</string>
+    <string name="menu_pro_reitorias">Pró-Reitorias</string>
+    <string name="menu_inst_uftm">Institutos UFTM</string>
+    <string name="menu_diretorios_academicos">Diretórios Acadêmicos</string>
+    <string name="menu_ligas">Ligas</string>
+    <string name="menu_iniciacao_cientifica">Iniciação Científica</string>
+    <string name="menu_coordenacoes">Coordenações</string>
+    <string name="menu_mural_de_informacoes">Mural de Informações</string>
+    <string name="menu_calendario_academico">Calendário Acadêmico</string>
+</resources>

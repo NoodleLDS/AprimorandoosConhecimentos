@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/drawable/ic_menu_camera.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/drawable/ic_menu_conheca_aprimorando.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/drawable/ic_menu_conheca_uftm.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/content_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_Direitos_e_Deveres_do_Discente.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_calendario_academico.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_conheca_uftm.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_coordenacoes.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_direitos_e_deveres_do_discente.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_diretorios_academicos.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_gallery.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_home.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_iniciacao_cientifica.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_inst_uftm.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_ligas.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_mural_de_informacoes.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_pro_reitorias.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/fragment_slideshow.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/layout/nav_header_main.xml" value="0.2" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/menu/activity_main_drawer.xml" value="0.67" />
+        <entry key="..\:/Users/The_Noodle/Desktop/Aprimorando/app/src/main/res/menu/main.xml" value="0.14270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.12635869565217392" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
