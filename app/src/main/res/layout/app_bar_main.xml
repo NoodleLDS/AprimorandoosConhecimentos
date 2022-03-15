@@ -15,8 +15,8 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
-            app:popupTheme="@style/Theme.Aprimorando.PopupOverlay" />
+            android:background="?attr/colorSecondaryVariant"
+            app:popupTheme="@style/Theme.Aprimorando" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
@@ -26,9 +26,19 @@
         android:id="@+id/fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
+        android:layout_gravity="bottom|start"
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="16dp"
+        android:layout_marginLeft="40dp"
         app:srcCompat="@android:drawable/ic_dialog_email" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_zap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_marginLeft="30pt"
+        android:layout_marginBottom="16dp"
+        app:srcCompat="@android:drawable/ic_dialog_dialer" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
